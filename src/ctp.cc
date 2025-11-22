@@ -1,5 +1,5 @@
 // src/ctp.cpp
-#include "ctp.h"
+#include "../include/ctp.h"
 
 #include <cstring>
 #include <ctime>
